@@ -1,2 +1,2 @@
 # Business-Intelligence
-Trabalho de Conclusão de Curso - BI
+Desenvolvimento de um ambiente de Business Intelligence para o SENAI-MA
